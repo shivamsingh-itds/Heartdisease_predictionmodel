@@ -1,4 +1,4 @@
-## ** Project Title : Heart Diease Prediction Model **
+##  Project Title : Heart Diease Prediction Model 
 
 ---
 ## Objective :
@@ -7,7 +7,7 @@
 
 ---
 
-## **Type of Analysis : Multivariate\Classification Model **
+## Type of Analysis : Multivariate\Classification Model 
 ---
 #### Data Information 
 age: age in years
